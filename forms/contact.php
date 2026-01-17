@@ -14,7 +14,7 @@
         }
 
         
-        $recipient = "agravatakash4@gmail.com";
+        $recipient = "agravatkaran4@gmail.com";
 
         $subject = "$subject";
 
